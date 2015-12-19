@@ -1,5 +1,10 @@
 import java.lang.reflect.Field;
 
+/**
+ * A trivial example to leverage Reflection capabilities on source file.
+ * @author pchekoor
+ *
+ */
 public class Person {
 	private String firstName;
 	private String lastName;
